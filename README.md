@@ -1,6 +1,6 @@
 # Global-Covid-19-Tracker
 
-o Run:
+To Run:
 
 Create a virtual environment with python >=3.7
 Install Dependencies:
